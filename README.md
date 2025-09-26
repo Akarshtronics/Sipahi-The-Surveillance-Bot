@@ -1,2 +1,2 @@
-# Vision-Rover
-The ESP32-CAM Vision Car is a Wi-Fi–controlled robot that provides live video streaming and movement control through a simple web interface. Using the ESP32-CAM module for video and an L298N motor driver for motor control, the bot can be operated from any smartphone, tablet, or PC connected to the same Wi-Fi network.
+# Sipahi - The Surveillance Bot
+Sipahi is a smart surveillance robot designed for monitoring and security applications. It is built using the ESP32-CAM module, which provides both wireless video streaming and control capabilities. The robot is compact, cost-effective, and can be operated remotely through a web-based interface, making it highly suitable for real-time surveillance in sensitive or hard-to-reach areas.
